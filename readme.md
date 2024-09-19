@@ -41,7 +41,7 @@
 
 ## Get in touch:
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/yourTwitterHandle?style=social)](https://twitter.com/edidiesky)  
+[![Follow on Twitter](https://img.shields.io/twitter/follow/edidiesky?style=social)](https://twitter.com/edidiesky)  
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://linkedin.com/in/victorezekielessien)
 
 
