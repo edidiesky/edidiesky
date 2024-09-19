@@ -13,7 +13,7 @@
 
 **MY BRAIN**: You mean making sure every bit of state is handled efficiently and all data is cached to reduce unnecessary fetches, right?
 
-**ME**: Exactly. It keeps the app fast and responsive. Plus, optimizing the **database queries** to reduce latency with **indexing** and **query optimization** is another big win.
+**ME**: Yeah (Answering amicably so to end the conversation). It keeps the app fast and responsive. Plus, optimizing the **database queries** to reduce latency with **indexing** and **query optimization** is another big win.
 
 **MY BRAIN**: Yep! Not to forget how we’re using **Promise.all** to fetch data in parallel, reducing wait times. That makes everything smoother.
 
