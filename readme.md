@@ -5,7 +5,7 @@
 ![Project Screenshot](/image.jpeg)
 
 
-# A Day in the Life of Dev 🤓
+# A Day in the Life of a Dev 🤓
 
 **ME**: I’m all about optimizing **state management** and ensuring top performance with **React Query**.
 
