@@ -1,8 +1,16 @@
 # Hi There 👋
 
-[EddyPortfolio.com] (https://eddyportfolio.vercel.app/)
 
 ![Project Screenshot](/image.jpeg)
+
+---
+
+Striving for excellence in everything I do—because who doesn’t love when things are done right? 😅
+
+
+🔗 [VictorEssien.com](https://eddyportfolio.vercel.app/)
+
+---
 
 
 # A Day in the Life of a Dev 🤓
