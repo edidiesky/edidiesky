@@ -7,7 +7,9 @@
 
 # A Day in the Life of a Dev 🤓
 
-**ME**: I’m all about optimizing **state management** and ensuring top performance with **React Query**.
+**MY BRAIN**: Victor, Listen What happened the other day!
+
+**ME**: ( Suprised, Thinking was it not there) I’m all about optimizing **state management** and ensuring top performance with **React Query**.
 
 **MY BRAIN**: You mean making sure every bit of state is handled efficiently and all data is cached to reduce unnecessary fetches, right?
 
