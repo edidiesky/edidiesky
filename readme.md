@@ -23,7 +23,7 @@
 
 **MY BRAIN**: Exactly! Ensuring everything is pixel-perfect while also guaranteeing smooth backend functionality—it’s all in a day’s work.
 
-**ME**: And even though we focus heavily on frontend with **React.js** and **Next.js**, let’s not forget the backend optimizations with **Node.js**, **Express.js**, and **MongoDB**.
+**ME**: And even though we focus heavily on frontend with **React.js**, **Typescript** and **Next.js**, let’s not forget the backend optimizations with **Node.js**, **Express.js**, and **MongoDB**.
 
 **MY BRAIN**: (Takes a sip of coffee ☕) Right! Keeping both sides efficient and clean is our goal. Whether it's state management or database queries, performance always comes first.
 
