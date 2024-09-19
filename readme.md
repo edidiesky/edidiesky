@@ -21,7 +21,7 @@
 
 **MY BRAIN**: Oh yes! **Jest** with **React Testing Library** has been a lifesaver for catching potential issues early, especially when dealing with complex interactions.
 
-**ME**: And how about **Cypress**? Testing real-world user interactions is a game-changer for frontend stability.
+**ME**: (Liking the conversation more ☕) And how about **Cypress**? Testing real-world user interactions is a game-changer for frontend stability.
 
 **MY BRAIN**: Speaking of the frontend, you’ve been translating Figma prototypes into pixel-perfect web pages regularly, haven’t you?
 
@@ -77,5 +77,5 @@
 
 **MY BRAIN**: Oh well, as long as we know the impact, right? 🤷🏽‍♂️
 
-**ME**: True, but it would’ve been nice to show off a little! 😤
+**ME**: (Feeling a litle proud) True, but it would’ve been nice to show off a little! 😤
 
