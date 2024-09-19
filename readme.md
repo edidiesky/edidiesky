@@ -5,7 +5,7 @@
 ![Project Screenshot](/image.jpeg)
 
 
-# What happened the other day 🤔
+# A Day in the Life of Dev 🤓
 
 **ME**: I’m all about optimizing **state management** and ensuring top performance with **React Query**.
 
@@ -21,7 +21,11 @@
 
 **ME**: And how about **Cypress**? Testing real-world user interactions is a game-changer for frontend stability.
 
-**MY BRAIN**: Exactly! Ensuring everything is pixel-perfect while also guaranteeing smooth backend functionality—it’s all in a day’s work.
+**MY BRAIN**: Speaking of the frontend, you’ve been translating Figma prototypes into pixel-perfect web pages regularly, haven’t you?
+
+**ME**: Yep! Ensuring that every design element looks exactly as envisioned while collaborating closely with product managers to bring ideas to life is part of the fun.
+
+**MY BRAIN**: It’s a well-rounded effort—from design to deployment—keeping things efficient and visually appealing!
 
 **ME**: And even though we focus heavily on frontend with **React.js**, **Typescript** and **Next.js**, let’s not forget the backend optimizations with **Node.js**, **Express.js**, and **MongoDB**.
 
@@ -38,13 +42,6 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourTwitterHandle?style=social)](https://twitter.com/edidiesky)  
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://linkedin.com/in/victorezekielessien)
 
-🔗 [Check out my blog] (https://eddiebadcoder.hashnode.dev/) 
-
-**MY BRAIN**: Why didn’t you use a fancy shield for your blog?
-
-**ME**: 🙄 Shields.io didn’t have one.
-
-**MY BRAIN**: Then create one for them! 😤
 
 ---
 
@@ -60,6 +57,14 @@
 
 **ME**: No worries. I’ve got that covered.
 
+
+🔗 [Check out my blog] (https://eddiebadcoder.hashnode.dev/) 
+
+**MY BRAIN**: Why didn’t you use a fancy shield for your blog?
+
+**ME**: 🙄 Shields.io didn’t have one.
+
+**MY BRAIN**: Then create one for them! 😤
 
 ---
 **ME**: I would've added more analytics like **Recent Activity** and **GitHub Stats**, but sadly, the work we do in organization "private" repositories isn’t visible to everyone.
