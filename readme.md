@@ -16,7 +16,7 @@ Striving for excellence in everything I do—because who doesn’t love when thi
 
 • **MY BRAIN**: Victor, Listen... What happened the other day!
 
-• **ME**: (Surprised, Thinking... was it not there?) I’m all about optimizing **state management** and ensuring top performance with **React Query**.
+• **ME**: (Surprised, Thinking... was it not there?) Well, I’m all about optimizing **state management** and ensuring top performance with **React Query**.
 
 • **MY BRAIN**: You mean making sure every bit of state is handled efficiently and all data is cached to reduce unnecessary fetches, right?
 
