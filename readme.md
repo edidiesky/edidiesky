@@ -17,7 +17,7 @@
 
 **MY BRAIN**: Yep! Not to forget how we’re using **Promise.all** to fetch data in parallel, reducing wait times. That makes everything smoother.
 
-**ME**: True, but don't forget how we validate all of this with **Cypress** end-to-end tests and **Jest** for unit tests, ensuring every part of the app runs as expected. We've written countless tests to cover all our core functionalities.
+**ME**: (Still trying to keep the tempo cool) True, but don't forget how we validate all of this with **Cypress** end-to-end tests and **Jest** for unit tests, ensuring every part of the app runs as expected. We've written countless tests to cover all our core functionalities.
 
 **MY BRAIN**: Oh yes! **Jest** with **React Testing Library** has been a lifesaver for catching potential issues early, especially when dealing with complex interactions.
 
