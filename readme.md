@@ -8,7 +8,7 @@
 Striving for excellence in everything I do—because who doesn’t love when things are done right? 😅
 
 
-🔗 [VictorEssien.com](https://eddyportfolio.vercel.app/)
+🔗 [VictorEssienPortfolio.com](https://eddyportfolio.vercel.app/)
 
 ---
 
@@ -28,9 +28,9 @@ Striving for excellence in everything I do—because who doesn’t love when thi
 
 • **MY BRAIN**: Oh yes! **Jest** with **React Testing Library** has been a lifesaver for catching potential issues early, especially when dealing with complex interactions...
 
-• **ME**: (Liking the conversation more ☕) And how about **Cypress**? Testing real-world user interactions is a game-changer for frontend stability.
+• **ME**: (Liking the conversation more ☕) And how about **Cypress**? Testing real-world user interactions is a game-changer for front-end stability.
 
-• **MY BRAIN**: Speaking of the frontend... you’ve been translating Figma prototypes into pixel-perfect web pages regularly, haven’t you?
+• **MY BRAIN**: Speaking of the front-end... you’ve been translating Figma prototypes into pixel-perfect web pages regularly. haven’t you?
 
 • **ME**: Yep! Ensuring that every design element looks exactly as envisioned while collaborating closely with product managers to bring ideas to life is part of the fun.
 
